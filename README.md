@@ -4,7 +4,7 @@
 ## Each pages of code will have one of the following License Assotiated
 
 ```
-Copyright (C) <year> Bellande Algorithm Model Research Innovation Center.
+Copyright (C) <year> Bellande Architecture Mechanism Research Innovation Center.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License. You may obtain a copy of
@@ -20,7 +20,7 @@ the License.
 ```
 
 ```
-Copyright (C) <year> Bellande Algorithm Model Research Innovation Center.
+Copyright (C) <year> Bellande Architecture Mechanism Research Innovation Center.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -40,7 +40,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ## Ideas and None Code will be under
 
 ```
-Copyright (C) <year> Bellande Algorithm Model Research Innovation Center.
+Copyright (C) <year> Bellande Architecture Mechanism Research Innovation Center.
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
